@@ -27,8 +27,6 @@ Usage rapide:
 
 À propos: L’algorithme est robuste face aux lignes incomplètes et corrompues grâce au padding NaN et à la vérification des points valides.
 
-Auteur: Ask AI, Codeway
-Licence: MIT
 """
 
 from __future__ import annotations
@@ -299,3 +297,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
